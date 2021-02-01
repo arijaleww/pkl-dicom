@@ -1,3 +1,5 @@
+#using matplotlib
+import matplotlib.pyplot as plt
 import pydicom as dicom
 from pydicom.pixel_data_handlers import util
 import os, cv2, numpy as np
